@@ -3,6 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objects", "Objects", "{D072C50E-8F78-4FC9-BB53-0D5D9425B4D2}"
+	ProjectSection(SolutionItems) = preProject
+		constructor_function.html = constructor_function.html
+		constructor_function.js = constructor_function.js
+		inheritance.html = inheritance.html
+		inheritance.js = inheritance.js
+		namespace_object.js = namespace_object.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
